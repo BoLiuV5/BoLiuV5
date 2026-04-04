@@ -1,8 +1,8 @@
 ## Hi there 👋
-
+![](./profile-3d-contrib/profile-green-animate.svg)
 <!--
 **BoLiuV5/BoLiuV5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![](./profile-3d-contrib/profile-green-animate.svg)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
