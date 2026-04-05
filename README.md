@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Bo ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=24&center=true&vCenter=true&width=600&lines=Building+Croxet;iOS+Developer;AI+Enthusiast;Future+Founder)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=24&center=true&vCenter=true&width=600&lines=Building+Croxet;iOS+Developer;AI+Enthusiast;Future+Founder)
+# 👋 Hi, I'm Bo 
 
 🚀 Builder | iOS Developer | AI x Product Enthusiast  
 🎯 Founder of **Croxet** — building apps that improve everyday life  
