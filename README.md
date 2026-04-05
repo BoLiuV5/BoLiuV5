@@ -1,4 +1,9 @@
-## Hi there 👋
+### 👋 Hi, I'm Bo ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=24&center=true&vCenter=true&width=600&lines=Building+Croxet;iOS+Developer;AI+Enthusiast;Future+Founder)
+
+🚀 Builder | iOS Developer | AI x Product Enthusiast  
+🎯 Founder of **Croxet** — building apps that improve everyday life  
+
+---
 [![My Skills](https://skillicons.dev/icons?i=py,react,selenium,swift,js,ts,nextjs,postgres,aws,docker,unity,)](https://skillicons.dev)
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
@@ -20,12 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Bo ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=24&center=true&vCenter=true&width=600&lines=Building+Croxet;iOS+Developer;AI+Enthusiast;Future+Founder)
 
-🚀 Builder | iOS Developer | AI x Product Enthusiast  
-🎯 Founder of **Croxet** — building apps that improve everyday life  
-
----
 
 ## 🧠 About Me
 - 🎓 Computer Science
