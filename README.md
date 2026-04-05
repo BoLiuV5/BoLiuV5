@@ -19,7 +19,7 @@
 
 
 ## 🧰 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,react,vercel,selenium,swift,js,ts,nextjs,postgres,aws,docker,unity,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pandas,numpy,selenium,swift,js,ts,react,nextjs,vercel, postgres,aws,docker,unity,)](https://skillicons.dev)
 
 
 ## 📊 GitHub Stats
