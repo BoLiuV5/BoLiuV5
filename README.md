@@ -4,8 +4,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=40&center=true&vCenter=true&width=500&lines=Building+Croxet;iOS+Developer;AI+Enthusiast;Future+Founder" />
 </p>
-## 👋 Hi, I'm Bo 
 
+## 👋 Hi, I'm Bo 
 
 🚀 Builder | iOS Developer | AI x Product Enthusiast  
 🎯 Founder of **Croxet** — building apps that improve everyday life  
