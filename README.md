@@ -50,13 +50,8 @@ Here are some ideas to get you started:
 ---
 
 ## 🧰 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,react,selenium,swift,js,ts,nextjs,postgres,aws,docker,unity,)](https://skillicons.dev)
-![Swift](https://img.shields.io/badge/Swift-iOS-orange)
-![Python](https://img.shields.io/badge/Python-Building-blue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791)
-![Next.js](https://img.shields.io/badge/Next.js-Web-black)
-![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900)
-![Vercel](https://img.shields.io/badge/Vercel-Deploy-black)
+[![My Skills](https://skillicons.dev/icons?i=py,react,selenium,vercel,swift,js,ts,nextjs,postgres,aws,docker,unity,)](https://skillicons.dev)
+
 
 **Languages**
 - Python | C++ | Swift | JavaScript  
