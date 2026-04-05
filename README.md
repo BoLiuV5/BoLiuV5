@@ -15,19 +15,6 @@
 ## 🧰 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,react,selenium,vercel,swift,js,ts,nextjs,postgres,aws,docker,unity,)](https://skillicons.dev)
 
-**Languages**
-
-[![My Skills](https://skillicons.dev/icons?i=py,swift,js,ts)](https://skillicons.dev)
-
-**Frontend**
-- React | Next.js | Tailwind  
-
-**Backend**
-- Node.js | PostgreSQL  
-
-**Tools**
-- AWS | Vercel | Git | Docker (learning)
-
 
 ## 📊 GitHub Stats
 ![](./profile-3d-contrib/profile-green-animate.svg)
