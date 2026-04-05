@@ -13,7 +13,7 @@
 # 🧰 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,react,selenium,vercel,swift,js,ts,nextjs,postgres,aws,docker,unity,)](https://skillicons.dev)
 
-
+# 📊 GitHub Stats
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--START_SECTION:activity-->
@@ -67,14 +67,6 @@ Here are some ideas to get you started:
 - AWS | Vercel | Git | Docker (learning)
 
 ---
-
-## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=BoLiuV5&hide_border=true)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BoLiuV5/BoLiuV5/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BoLiuV5/BoLiuV5/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/BoLiuV5/BoLiuV5/output/github-snake.svg" />
-</picture>
 
 
 ## 🌱 Currently Learning
