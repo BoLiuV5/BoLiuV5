@@ -12,6 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - uses: BoLiuV5/github-activity-readme@master
+      - uses: BoLiuV5/BoLiuV5@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
