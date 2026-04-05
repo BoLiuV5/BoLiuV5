@@ -39,13 +39,6 @@
 ### 📈 StockAnalyze
 > AI-driven stock insights & market analysis  
 
----
-
-
-
-
----
-
 
 ## 🌱 Currently Learning
 - AI-powered applications  
