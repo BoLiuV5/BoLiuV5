@@ -3,8 +3,12 @@
 🚀 Builder | iOS Developer | AI x Product Enthusiast  
 🎯 Founder of **Croxet** — building apps that improve everyday life  
 
----
-[![My Skills](https://skillicons.dev/icons?i=py,react,selenium,swift,js,ts,nextjs,postgres,aws,docker,unity,)](https://skillicons.dev)
+## 🧠 About Me
+- 🎓 Computer Science
+- 💡 Passionate about AI, full-stack, and product design  
+- 🛠️ Building real-world apps, not just tutorials  
+- 🌎 Based in Los Angeles
+- 
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
@@ -27,11 +31,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 🧠 About Me
-- 🎓 Computer Science
-- 💡 Passionate about AI, full-stack, and product design  
-- 🛠️ Building real-world apps, not just tutorials  
-- 🌎 Based in Los Angeles  
+
 
 ---
 
@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🧰 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=py,react,selenium,swift,js,ts,nextjs,postgres,aws,docker,unity,)](https://skillicons.dev)
 ![Swift](https://img.shields.io/badge/Swift-iOS-orange)
 ![Python](https://img.shields.io/badge/Python-Building-blue)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791)
