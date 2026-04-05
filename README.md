@@ -1,13 +1,6 @@
 ## Hi there 👋
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=BoLiuV5&hide_border=true)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BoLiuV5/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BoLiuV5/BoLiuV5/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/BoLiuV5/BoLiuV5/output/github-snake.svg" />
-</picture>
 <!--
 **BoLiuV5/BoLiuV5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
