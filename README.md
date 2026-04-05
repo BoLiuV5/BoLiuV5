@@ -23,11 +23,6 @@
 <!--END_SECTION:activity-->
 
 
-
-
-
----
-
 ## 🚀 Current Projects
 
 ### 📱 MyTreasure
