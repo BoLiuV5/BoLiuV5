@@ -1,7 +1,9 @@
-![264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863](https://github.com/user-attachments/assets/0aa1db70-ba8a-4008-9b23-ef14e2df8c19)
-
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=40&center=true&vCenter=true&width=500&lines=Building+Croxet;iOS+Developer;AI+Enthusiast;Future+Founder)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0aa1db70-ba8a-4008-9b23-ef14e2df8c19" width="500"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=40&center=true&vCenter=true&width=500&lines=Building+Croxet;iOS+Developer;AI+Enthusiast;Future+Founder" />
+</p>
 ## 👋 Hi, I'm Bo 
 
 
