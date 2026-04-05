@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![My Skills](https://skillicons.dev/icons?i=py,react,selenium,swift,js,ts,nextjs,postgres,aws,docker,unity,)](https://skillicons.dev)
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
