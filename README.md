@@ -4,12 +4,15 @@
 🚀 Builder | iOS Developer | AI x Product Enthusiast  
 🎯 Founder of **Croxet** — building apps that improve everyday life  
 
-## 🧠 About Me
+# 🧠 About Me
 - 🎓 Computer Science
 - 💡 Passionate about AI, full-stack, and product design  
 - 🛠️ Building real-world apps, not just tutorials  
 - 🌎 Based in Los Angeles
-- 
+
+# 🧰 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=py,react,selenium,vercel,swift,js,ts,nextjs,postgres,aws,docker,unity,)](https://skillicons.dev)
+
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
@@ -49,8 +52,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 🧰 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,react,selenium,vercel,swift,js,ts,nextjs,postgres,aws,docker,unity,)](https://skillicons.dev)
 
 
 **Languages**
