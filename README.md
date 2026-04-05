@@ -1,38 +1,27 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=40&center=true&vCenter=true&width=1000&lines=Building+Croxet;iOS+Developer;AI+Enthusiast;Future+Founder)
-# 👋 Hi, I'm Bo 
+## 👋 Hi, I'm Bo 
 
 🚀 Builder | iOS Developer | AI x Product Enthusiast  
 🎯 Founder of **Croxet** — building apps that improve everyday life  
 
-# 🧠 About Me
+
+## 🧠 About Me
 - 🎓 Computer Science
 - 💡 Passionate about AI, full-stack, and product design  
 - 🛠️ Building real-world apps, not just tutorials  
 - 🌎 Based in Los Angeles
 
-# 🧰 Tech Stack
+
+## 🧰 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,react,selenium,vercel,swift,js,ts,nextjs,postgres,aws,docker,unity,)](https://skillicons.dev)
 
-# 📊 GitHub Stats
+
+## 📊 GitHub Stats
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<!--
-**BoLiuV5/BoLiuV5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
