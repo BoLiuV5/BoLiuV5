@@ -53,9 +53,9 @@
 
 ---
 ## 📬 Connect With Me
-- Portfolio: https://your-portfolio-link.com  
-- LinkedIn: https://linkedin.com/in/your-link  
-- Email: hello@croxet.com  
+- Portfolio: 
+- LinkedIn:
+- Email: 
 
 ---
 ## Selected Projects
