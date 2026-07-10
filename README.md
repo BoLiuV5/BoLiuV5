@@ -26,6 +26,7 @@
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#2299](https://github.com/aboutcode-org/scancode-toolkit/issues/2299#issuecomment-4937826039) in [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit)
 <!--END_SECTION:activity-->
 
 
