@@ -26,7 +26,7 @@
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5264](https://github.com/aboutcode-org/scancode-toolkit/pull/5264) in [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit)
+1. 🎉 Merged PR [#5264](https://github.com/aboutcode-org/scancode-toolkit/pull/5264) in [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit)
 <!--END_SECTION:activity-->
 
 
