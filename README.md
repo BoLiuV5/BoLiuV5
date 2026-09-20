@@ -26,7 +26,7 @@
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3039](https://github.com/microsoft/apm/pull/3039) in [microsoft/apm](https://github.com/microsoft/apm)
+1. ❌ Closed PR [#3039](https://github.com/microsoft/apm/pull/3039) in [microsoft/apm](https://github.com/microsoft/apm)
 <!--END_SECTION:activity-->
 
 
